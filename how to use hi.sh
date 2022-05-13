@@ -2,6 +2,7 @@ How to use hi.sh
 
 
 1) prepare potcars folder at your home
+
 2) preapre a folder with name "0" and put 1~n folders  which will have structure calculations of each dopants.
 sh hi.sh 
 then 
